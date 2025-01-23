@@ -2,10 +2,9 @@
     margin: 0%;
     padding: 0%;
 }
-.img{
+.body{
    height: 100vh;
     background-repeat: no-repeat;
     width: 100%;
-    background-image: url(../bacground.jpng.webp);
-
+    background-color: blue;
 }
