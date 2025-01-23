@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    color: blue;
+    font-family: Arial,;
+    font-size: 35px;
+    float: right;
+    background-repeat: no-repeat;
+    background-color: aqua;
+   
+}
+header{
+    color: black;
+    float: right;
+    
+    margin: 0 30%;
+}
+.image{
+    width: 100%;
+}
+
+img{
+       margin: 0 30%;
+}
